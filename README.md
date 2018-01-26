@@ -17,6 +17,7 @@
 ## Articles
 
 * [webpack 4 beta — try it today!](https://medium.com/webpack/webpack-4-beta-try-it-today-6b1d27d7d7e2) - A thorough introduction to webpack 4 by Sean Larkin
+* [Webpack 4 tutorial: All You Need to Know, from 0 Conf to Production Mode](https://www.valentinog.com/blog/webpack-4-tutorial/) - A living, breathing introduction to webpack 4
 
 ## License
 
