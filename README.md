@@ -16,6 +16,7 @@
 
 ## Articles
 
+* [webpack 4: released today](https://medium.com/webpack/webpack-4-released-today-6cdb994702d4) - webpack 4 released!
 * [webpack 4 beta — try it today!](https://medium.com/webpack/webpack-4-beta-try-it-today-6b1d27d7d7e2) - A thorough introduction to webpack 4 by Sean Larkin
 * [webpack 4: mode and optimization](https://medium.com/webpack/webpack-4-mode-and-optimization-5423a6bc597a) - A complete guide to mode and optimization in webpack 4, by Tobias Koppers
 * [Webpack 4 tutorial: All You Need to Know, from 0 Conf to Production Mode](https://www.valentinog.com/blog/webpack-4-tutorial/) - A living, breathing introduction to webpack 4
